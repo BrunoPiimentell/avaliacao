@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\avaliação\bin\Debug\DbGeek.mdf
+C:\Users\Aluno\source\repos\avaliação\bin\Debug\DbGeek_log.ldf
+C:\Users\Aluno\source\repos\avaliação\bin\Debug\avaliação.exe.config
+C:\Users\Aluno\source\repos\avaliação\bin\Debug\avaliação.exe
+C:\Users\Aluno\source\repos\avaliação\bin\Debug\avaliação.pdb
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.FrmLogin.resources
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.FrmProduto.resources
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.FrmSplash.resources
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.Properties.Resources.resources
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.exe
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.pdb
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.FrmPrincipal.resources
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.FrmCliente.resources
+C:\Users\Aluno\source\repos\avaliação\obj\Debug\avaliação.FrmVendas.resources
